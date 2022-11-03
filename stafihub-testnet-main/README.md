@@ -1,6 +1,6 @@
 # <h1 align="center">StaFiHub Public Testnet 3</h1>
 
-<h1 align="center">Selamlar herkese, bugün uzun süredir içinde olduğumuz StaFiHub'un public validator testine katılacağız, daha önce katılmadıysanızda dahil olabilirsiniz. </h1>
+<h1 align="center">Selamlar herkese, StaFiHub'un public validator testine katılacağız, daha önce katılmadıysanızda dahil olabilirsiniz. </h1>
 
 ![image](https://user-images.githubusercontent.com/101149671/177503012-d32a16d9-943b-4090-a005-dccaa691cb46.png)
 
@@ -188,17 +188,7 @@ stafihubd tx staking create-validator \
 # Explorer linki: https://testnet-explorer.stafihub.io/stafi-hub-testnet
 # Telegram kanalı: https://t.me/StaFiHubTurkish
 
-# Hesaplar:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 
-
-[<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="16px"> Forum   ](https://forum.rues.info/index.php)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Announcement   ](https://t.me/RuesAnnouncement)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Chat   ](https://t.me/RuesChat)
-
-[Discord](https://discord.gg/ruescommunity)
 
 
 
